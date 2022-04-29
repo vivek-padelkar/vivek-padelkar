@@ -10,7 +10,7 @@ am a full stack developer with 5+ years of experience and deep knowledge of Java
 * 🖥️  See my portfolio at [https://vivekpadelkar.netlify.app/](http://vivekpadelkar.netlify.app/)
 * ✉️  You can contact me at [vivek.padelkar@gmail.com](mailto:vivek.padelkar@gmail.com)
 * 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on React.js SPA development, Developing and designing Webpages , developing Backend with Node.js as well as with MongoDB/ MySQL/PostgreSQL
+* 🤝  I'm open to collaborating on React.js SPA development, developing and designing Webpages , developing Backend with Node.js as well as with MongoDB/ MySQL/PostgreSQL
 * ⚡  I am a go getter
 
 ### Skills
