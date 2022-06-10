@@ -1,5 +1,5 @@
 Hi 👋 
-My name is Vivek Padelkar
+My name is Vivek
 ===============================
 
 Full Stack Developer
