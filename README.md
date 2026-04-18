@@ -5,7 +5,7 @@ My name is Vivek
 Full Stack Developer
 --------------------
 
-I am a full stack developer with 5+ years of experience and deep knowledge of JavaScript, ReactJS, NodeJS, MySQL, MongoDB, VB.net, VBA, MSSQL, MySQL and many more web technologies and programming languages
+I am a full stack developer with 10 years of experience and deep knowledge of JavaScript, ReactJS, NodeJS, MySQL, MongoDB, VB.net, VBA, MSSQL, MySQL and many more web technologies and programming languages
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [https://vivekpadelkar.netlify.app/](http://vivekpadelkar.netlify.app/)
